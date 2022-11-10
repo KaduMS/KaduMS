@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou Carlos Eduardo Machado.
 - 👀 Desenvolvimento front-end.
-- 🌱 Atualmente estou estudando React, Javascript, Angular e Typescript.
+- 🌱 Em constante aprendizado em React, Javascript, Angular e Typescript.
 - 📫 Meu contato https://www.linkedin.com/in/carlos-eduardo-machado-6675191b1/
 
 <!---
