@@ -1,7 +1,6 @@
 - 👋 Olá, eu sou Carlos Eduardo Machado.
 - 📚 Bacharel em Ciência da Computação.
-- 👀 Desenvolvimento front-end.
-- 🌱 Em constante aprendizado em React, Javascript, Angular e Typescript.
+- 👀 Desenvolvimento Full Stack.
 - 📫 Meu contato https://www.linkedin.com/in/carlos-eduardo-machado-6675191b1/
 
 <div align="left">
